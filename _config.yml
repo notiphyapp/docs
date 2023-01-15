@@ -3,7 +3,7 @@
 remote_theme: pmarsceill/just-the-docs
 title: OTPAlerts Documentation
 description: Business.Communication
-logo: "https://cdn.jsdelivr.net/gh/notiphyapp/docs@main/content/static/app/notiphy/bg-x-logo.png"
+logo: "https://cdn.jsdelivr.net/gh/notiphyapp/docs@latest/content/static/app/notiphy/bg-x-logo.png"
 aux_links:
   "Create Account":
     - "//otp.otpalerts.com/contak/panel/"
