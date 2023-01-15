@@ -7,4 +7,4 @@ has_toc : false
 ---
 # Introduction
 
-Welcome to our Official API Documentation where you find information about our Business Communication Service.
+This is our Official API Documentation for sending Messages using Business Communication Service.
