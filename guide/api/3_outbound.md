@@ -6,7 +6,7 @@ has_children: false
 parent : API Integration
 ---
 # Sending Messages
-Message API calls are sent to the **/api/v1/message/send** endpoint regardless of message type, but the content of the JSON message body differs for each type of message (text, image, etc.). See the [Full Documentation](/server-contak/public2/index.html?shell#sendCustomerNoteUsingPOST): for information regarding the type of messages you want to send:
+Message API calls are sent to the **/entoc/send** endpoint. See the [Full Documentation](/docs/server-contak/public2/index.html?shell#sendCustomerNoteUsingPOST)
 
 ### OTP Message
 #### Sample Request : 

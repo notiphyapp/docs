@@ -7,4 +7,4 @@ has_toc : false
 ---
 # Introduction
 
-Welcome to our MeherY Documentation where you find information, best practices and guidance about our Enterprise Social Communication solution.
+Welcome to our Official API Documentation where you find information about our Business Communication Service.
