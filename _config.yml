@@ -1,9 +1,9 @@
 #theme: jekyll-theme-slate
 #theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
-title: MeherY Documentation
-description: Enterprise.Social.Communication
-logo: "https://cdn.jsdelivr.net/gh/mehery-soccom/mehery-content@main/static/app/logo/bg-x-logo.png"
+title: OTPAlerts Documentation
+description: Business.Communication
+logo: "https://cdn.jsdelivr.net/gh/notiphyapp/docs@main/static/app/notiphy/bg-x-logo.png"
 aux_links:
   "Create Account":
-    - "//app.mehery.com"
+    - "//otp.otpalerts.com/contak/panel/"

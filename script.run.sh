@@ -1,5 +1,5 @@
-mkdir -p server-xms 
+mkdir -p server-contak 
 #cd server-xms
-curl -GET https://app.mehery.io/xms/v2/api-docs -o server-xms/api-docs.json
-node bin/spectacle  server-xms/api-docs.json -t server-xms/public -f index.html -D
+curl -GET https://otp.otpalerts.com/contak/v2/api-docs -o server-contak/api-docs.json
+node bin/spectacle  server-contak/api-docs.json -t server-contak/public -f index.html -D
 #cd ..
