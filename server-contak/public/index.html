@@ -21,6 +21,7 @@
           <img src="../public2/slate/img/navbar.png" alt="Logo" class="logo">
           <h5>Topics</h5>
           <a href="#introduction">Introduction</a>
+          <a href="#authentication">Authentication</a>
           <h5>Paths</h5>
           <!-- <section>
                 <a href="#path--entoc-send">/entoc/send</a>
@@ -57,7 +58,7 @@
               <div class="doc-examples">
                 <section>
                   <h5>API Endpoint</h5>
-                  <!-- <div class="hljs"> --><pre><code>http://otp.otpalerts.com/contak</code></pre>
+                  <!-- <div class="hljs"> --><pre><code>http://app.otpalerts.com/contak</code></pre>
                   <!-- </div> -->
                   <h5>Terms of Service:
                     <a href="urn:tos">urn:tos</a>
@@ -65,6 +66,38 @@
                   <h5>Version:
                     <span>1.0</span>
                   </h5>
+                </section>
+              </div>
+            </div>
+          </div>
+          <!-- <h1 id="security" data-traverse-target="security">Security</h1> -->
+          <h1 id="authentication" data-traverse-target="authentication">Authentication</h1>
+          <div id="security-definition-X_API_KEY" class="panel">
+            <div class="doc-row">
+              <div class="doc-copy">
+                <h3 class="security-definition-title">
+                  <span class="security-name">X_API_KEY</span>
+                  <span class="swagger-security-definition-apiKey"></span>
+                </h3>
+                <section class="swagger-security-definition-properties">
+                  <div class="prop-row security-definition-property">
+                    <div class="prop-name">
+                      <div class="prop-title security-definition-property-name">type</div>
+                    </div>
+                    <div class="prop-value security-definition-property-type"> apiKey </div>
+                  </div>
+                  <div class="prop-row security-definition-property">
+                    <div class="prop-name">
+                      <div class="prop-title security-definition-property-name">name</div>
+                    </div>
+                    <div class="prop-value security-definition-property-type"> x-api-key </div>
+                  </div>
+                  <div class="prop-row security-definition-property">
+                    <div class="prop-name">
+                      <div class="prop-title security-definition-property-name">in</div>
+                    </div>
+                    <div class="prop-value security-definition-property-type"> header </div>
+                  </div>
                 </section>
               </div>
             </div>
@@ -113,6 +146,22 @@
                       <!-- <div class="swagger-request-description"> -->
                       <p>msg</p>
                       <!-- </div> -->
+                    </div>
+                  </div>
+                </section>
+                <section class="swagger-request-params">
+                  <div class="prop-row prop-group">
+                    <div class="prop-name">
+                      <div class="prop-title">x-api-key:
+                        <span class="prop-type">
+                          <span class="json-property-type">string</span>
+                          <span class="json-property-range" title="Value limits"></span>
+                        </span>
+                      </div>
+                      <div class="prop-subtitle"> in header </div>
+                    </div>
+                    <div class="prop-value">
+                      <p>API Key</p>
                     </div>
                   </div>
                 </section>
