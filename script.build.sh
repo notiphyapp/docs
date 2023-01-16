@@ -1,9 +1,9 @@
 mkdir -p server-contak 
 #cd server-xms
 mkdir -p temp/ssl
-echo "HEAD / HTTP/1.0\n Host: otp.otpalerts.com\n\n EOT\n" | openssl s_client -prexit -connect otp.otpalerts.com:443 > temp/ssl/cert.pem
+echo "HEAD / HTTP/1.0\n Host: app.otpalerts.com\n\n EOT\n" | openssl s_client -prexit -connect app.otpalerts.com:443 > temp/ssl/cert.pem
 #curl --cacert ssl/cert.pem https://api.mehery.io/xms/v2/api-docs?group=latest
-curl --cacert temp/ssl/cert.pem https://otp.otpalerts.com/contak/v2/api-docs?group=clientnode -o server-contak/api-docs-raw.json
+curl --cacert temp/ssl/cert.pem https://app.otpalerts.com/contak/v2/api-docs?group=clientnode -o server-contak/api-docs-raw.json
 cat server-contak/api-docs-raw.json | jq > server-contak/api-docs.json
 rm server-contak/api-docs-raw.json
 
