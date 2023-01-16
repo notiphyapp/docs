@@ -1,5 +1,5 @@
 #theme: jekyll-theme-slate
-#theme: just-the-docs
+theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 title: OTPAlerts Documentation
 description: Business.Communication
