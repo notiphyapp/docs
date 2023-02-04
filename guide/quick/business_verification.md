@@ -14,6 +14,8 @@ Business verification helps ensure that:
 - **Your business is a legal entity.** You'll need to have your business registered with the local authorities, and you'll need an official phone number or postal address for your business.
 - **You're an authorised representative of your business.** You'll need to be able to receive a verification code sent to the phone number or email address for your business, or use the domain verification process.
 
+Send your documents to <business.verification@otpalerts.com>
+
 ## Verify the legal business name
 You are required to provide official documentation of your business's legal name. You can send an official document that matches the business's legal name that you entered at the time of registration, such as a business licence, articles of incorporation or business tax registration. See table below for examples of the documents you can submit for your country.
 
