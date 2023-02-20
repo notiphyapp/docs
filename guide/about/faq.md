@@ -19,7 +19,8 @@ Message data privacy and security on your phone is managed by the operating syst
  
 
 ### How to securely store my message data on the cloud
-Message data is stored on iCloud for iPhones and on Google Drive for Android phones. To encrypt and store the data on the iCloud go to OA Settings > Backup > Secure Backup with Encryption and turn this ON.
+Message data is stored on iCloud for iPhones and on Google Drive for Android phones. To encrypt and store the data on the iCloud go to 
+> OA Settings > Backup > Secure Backup with Encryption and turn this ON.
 
  
 
