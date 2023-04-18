@@ -18,6 +18,10 @@ _NodeClient_ is an application deployed locally in your enviroment to encrypt th
 #### API URL
 > https://nodeclient.yourcompany.com/entoc/send
 
+
+##### For On-Cloud _NodeClient_ API URL
+>  https://&lt;CLIENT_ID&gt;.otpalerts.com/entoc/send
+
 #### Communication
 > BusinessApplication &rarr; NodeClient &rarr; RoutingServer &rarr; Customer 
 
