@@ -8,7 +8,7 @@ nav_order: 2
 Terms & Conditions
 ==============
 
-Effcetive date: May 3rd, 2023
+Effcetive date: May 3, 2023
 
 **Mehery Legal Info**
 
