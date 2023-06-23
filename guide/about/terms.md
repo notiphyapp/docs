@@ -26,9 +26,7 @@ Effcetive date: May 3, 2023
 
 * **Privacy And Security Principles**. Since the inception of OA, we have built our Services with strong privacy and security principles in mind for the safety and well-being of our users.
 
-* **Connecting You with Businesses**. We provide a communication channel for businesses to communicate with their customers and prospects i.e., users like you, using text messages, images, documents and videos as well as data that may be 
-    pertinent to you. We share some of the information gathered about you (see [privacy policy](https://github.com/notiphyapp/docs/blob/main/guide/about/privacy.md)), to enhance our processes which in turn help enhance your security, 
-    when you are legitimately logging into our business website or app.
+* **Connecting You with Businesses**. We provide a communication channel for businesses to communicate with their customers and prospects i.e., users like you, using text messages, images, documents and videos as well as data that may be pertinent to you. We share some of the information gathered about you (see Privacy Policy, to enhance our processes which in turn help enhance your security, when you are legitimately logging into our business website or app.
 
 * **Ways To Improve Our Services**. We analyze how you make use of OA, in order to improve our Services. We also provide analytics to businesses who use OA to measure the effectiveness and distribution of their messages.
 
@@ -56,7 +54,7 @@ You must register for our Services using accurate information, provide your curr
 
 **Privacy Policy And User Data**
 
-Please refer to the [Privacy Policy](https://github.com/notiphyapp/docs/blob/main/guide/about/privacy.md), for complete details.
+Please refer to the Privacy Policy for complete details.
 
 **Acceptable Use Of Our Services**
 
@@ -84,7 +82,7 @@ Please refer to the [Privacy Policy](https://github.com/notiphyapp/docs/blob/mai
 
 **Third-Party Service**
 
-Our Services may allow you to access, use, or interact with third-party websites, apps, content, other products and services. For example, you may choose to use third-party data backup services (such as iCloud or Google Drive) that are integrated with our Services. Please note that these Terms and our [Privacy Policy](https://github.com/notiphyapp/docs/blob/main/guide/about/privacy.md) apply only to the use of our Services. When you use third-party products or services their terms and privacy policies will govern your use of those products or services.
+Our Services may allow you to access, use, or interact with third-party websites, apps, content, other products and services. For example, you may choose to use third-party data backup services (such as iCloud or Google Drive) that are integrated with our Services. Please note that these Terms and our Privacy Policy apply only to the use of our Services. When you use third-party products or services their terms and privacy policies will govern your use of those products or services.
 
 **Licenses**
 
