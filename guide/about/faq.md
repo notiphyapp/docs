@@ -36,7 +36,7 @@ Please store this in a secure place, other than on your iPhone. If you lose this
 
  
 
-When you uninstall your OA App, the local data on your phone will be deleted. The data which is backed up on the iCloud can be restored once your register the OA App again
+When you uninstall your OA App, the local data on your phone will be deleted. The data which is backed up on the iCloud can be restored once you register the OA App again.
 
  
 
