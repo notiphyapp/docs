@@ -10,7 +10,7 @@ Before you can integrate or access any of our APIs, you must first register  you
 ( For complete guide visit [Full Documentation](/docs/server-contak/public2/index.html#send-message) )
 
 ## NodeClient
-_NodeClient_ is an application deployed locally in your enviroment to encrypt the outbound message from business end before it leaves your network and dispatched to our centralised routing server. 
+_NodeClient_ is an application deployed locally in your environment to encrypt the outbound message from business end before it leaves your network and dispatched to our centralised routing server. 
 
 #### Lets say your locally hosted instance is available at
 > https://nodeclient.yourcompany.com
